@@ -5,6 +5,16 @@ repo: MyDNS # The name of this repository
 sites:
   - name: MyDNS
     url: https://dot.dnsc9.dynv6.net/login.html
+  - name: MyDNS
+    url: https://dnsc9.dynv6.net/login.html
+  - name: CloudFlare DNS 1
+    check: "tcp-ping"
+    url: 1.1.1.1
+    port: 53
+  - name: CloudFlare DNS 2
+    check: "tcp-ping"
+    url: 1.0.0.1
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -13,8 +23,8 @@ status-website:
   baseUrl: /MyDNS
   logoUrl: https://raw.githubusercontent.com/chintan9/MyDNS/master/assets/upptime-icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "status page for My DNS"
+  introMessage: Uptime monitor and status page for dot.dnsc9.dynv6.net
   navbar:
     - title: Status
       href: /
