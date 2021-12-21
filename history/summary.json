@@ -4,7 +4,7 @@
     "url": "https://dot.dnsc9.dynv6.net/login.html",
     "icon": "https://favicons.githubusercontent.com/dot.dnsc9.dynv6.net",
     "slug": "my-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 303,
     "timeMonth": 321,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-21": 0
+    }
   },
   {
     "name": "MyDNS",
     "url": "https://dnsc9.dynv6.net/login.html",
     "icon": "https://favicons.githubusercontent.com/dnsc9.dynv6.net",
     "slug": "my-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 303,
     "timeMonth": 321,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-21": 0
+    }
   },
   {
     "name": "CloudFlare DNS 1",
