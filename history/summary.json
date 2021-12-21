@@ -4,19 +4,19 @@
     "url": "https://dot.dnsc9.dynv6.net/login.html",
     "icon": "https://favicons.githubusercontent.com/dot.dnsc9.dynv6.net",
     "slug": "my-dns",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 476,
-    "timeWeek": 303,
-    "timeMonth": 321,
-    "timeYear": 321,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 320,
+    "timeDay": 413,
+    "timeWeek": 302,
+    "timeMonth": 320,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2021-12-21": 0
+      "2021-12-21": 52
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://dnsc9.dynv6.net/login.html",
     "icon": "https://favicons.githubusercontent.com/dnsc9.dynv6.net",
     "slug": "my-dns",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 476,
-    "timeWeek": 303,
-    "timeMonth": 321,
-    "timeYear": 321,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 320,
+    "timeDay": 413,
+    "timeWeek": 302,
+    "timeMonth": 320,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2021-12-21": 0
+      "2021-12-21": 52
     }
   },
   {
