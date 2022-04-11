@@ -4,8 +4,6 @@ repo: MyDNS # The name of this repository
 
 sites:
   - name: MyDNS
-    url: https://dot.dnsc9.dynv6.net/login.html
-  - name: MyDNS
     url: https://dnsc9.dynv6.net/login.html
   - name: CloudFlare DNS 1
     check: "tcp-ping"
